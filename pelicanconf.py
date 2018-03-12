@@ -62,8 +62,9 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 DEFAULT_PAGINATION = 10
-DISQUS_SITENAME = 'lovelicton'
+DISQUS_SITENAME = 'LoveLicton'
 GOOGLE_ANALYTICS = 'UA-115518273-1'
+SHOW_FULL_ARTICLE = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
