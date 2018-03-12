@@ -42,7 +42,6 @@ AUTHORS_BIO = {
     "name": "Timothy Crosley",
     "cover": "https://avatars1.githubusercontent.com/u/2090154?s=400&u=4f46538354444ce0a0d4d89cd676f769d7d846d3&v=4",
     "image": "https://avatars1.githubusercontent.com/u/2090154?s=400&u=4f46538354444ce0a0d4d89cd676f769d7d846d3&v=4",
-    "website": "http://blog.arulraj.net",
     "location": "Licton Springs, Seattle, WA",
     "bio": "During the day, I work at DomainTools, where I’m helping to develop predictive security solutions on top of truly large data sets. I can’t resist a good craft beer, a new board game, an arcade, or any food that contains peanut butter."
   }
