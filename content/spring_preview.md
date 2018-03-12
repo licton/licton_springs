@@ -1,6 +1,10 @@
 Title: An early preview of Spring in Licton Springs
 Date: 2018-03-12 1:18
+Author: timothycrosley
 Category: Information
+Tags: General, Outdoors
+slug: an-early-preview-of-spring-in-licton-springs
+og_image: images/spring/spring.jpg
 
 [![Park Entrance](/images/spring/entrance.jpg)](/images/spring/entrance.jpg)
 

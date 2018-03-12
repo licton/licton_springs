@@ -38,13 +38,13 @@ EXTRA_PATH_METADATA = {
 
 COLOR_SCHEME_CSS = 'monokai.css'
 AUTHORS_BIO = {
-  "zutrinken": {
-    "name": "Zutrinken",
-    "cover": "https://arulrajnet.github.io/attila-demo/assets/images/avatar.png",
-    "image": "https://arulrajnet.github.io/attila-demo/assets/images/avatar.png",
+  "timothycrosley": {
+    "name": "Timothy Crosley",
+    "cover": "https://avatars1.githubusercontent.com/u/2090154?s=400&u=4f46538354444ce0a0d4d89cd676f769d7d846d3&v=4",
+    "image": "https://avatars1.githubusercontent.com/u/2090154?s=400&u=4f46538354444ce0a0d4d89cd676f769d7d846d3&v=4",
     "website": "http://blog.arulraj.net",
-    "location": "Chennai",
-    "bio": "This is the place for a small biography with max 200 characters. Well, now 100 are left. Cool, hugh?"
+    "location": "Licton Springs, Seattle, WA",
+    "bio": "During the day, I work at DomainTools, where I’m helping to develop predictive security solutions on top of truly large data sets. I can’t resist a good craft beer, a new board game, an arcade, or any food that contains peanut butter."
   }
 }
 SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
@@ -62,7 +62,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 DEFAULT_PAGINATION = 10
-DISQUS_SITENAME = 'LoveLicton'
+DISQUS_SITENAME = 'lovelicton'
 GOOGLE_ANALYTICS = 'UA-115518273-1'
 SHOW_FULL_ARTICLE = True
 
