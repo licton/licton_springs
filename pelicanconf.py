@@ -25,6 +25,7 @@ SITE_LOGO = '/images/logo.png'
 CSS_OVERRIDE = ['static/main.css']
 STATIC_PATHS = ['static',
                 'images',
+                'images/spring',
                 'extra/robots.txt', 
                 'extra/favicon.ico',
                 'extra/CNAME'
