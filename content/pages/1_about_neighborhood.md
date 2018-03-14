@@ -11,6 +11,6 @@ The small size of the neighborhood means from the center you can walk to the Eas
 
 ![Licton Springs Bounderies](/images/covered_area.png)
 
-In addition to Licton Springs, within this 1 mile radius are: the Green Lake Park and northern Green Lake shops, Greenwood's Greenwood Ave strip, Maple Leaf's 5th and Roosevelt Way NE strips, and the Northgate Mall.
+In addition to Licton Springs, within this 1 mile radius are: the Green Lake Park and northern Green Lake shops, Greenwood's Greenwood Ave N strip, Maple Leaf's 5th Ave NE and Roosevelt Way NE strips, and the Northgate Mall.
 
 ~The Crosleys
