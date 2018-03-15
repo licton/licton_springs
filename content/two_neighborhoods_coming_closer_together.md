@@ -10,7 +10,7 @@ Licton Springs is set to feel even more connected to Maple Leaf and the rest of 
 
 [![Existing routes over I5](/images/bridge/i5_routes.jpg)](/images/bridge/i5_routes.jpg)
 
-The bridge is proposed to be built on 100th at the north end of North Seattle College, giving it a straight path over to the transit center:
+The bridge is proposed to be built at the north end of North Seattle College, giving it a straight path over to the transit center:
 
 [![Proposed location](/images/bridge/100th.jpg)](/images/bridge/100th.jpg)
 [![Proposed location](/images/bridge/100th_up_close.jpg)](/images/bridge/100th_up_close.jpg)
@@ -22,7 +22,7 @@ There are also 3 upcoming opportunities to give feedback on the project before c
 * [Tues. 3.20.18, 8-9:30 AM | Aljoya Thornton Place](https://www.facebook.com/events/205339450220405/)
 * Wed. 3.21.18, 5-6:30 PM | Neighborcare Health at Meridian
 
-In related news, at the same time as the bridge will be under construction, it seems likely an improved Northgate will also be underway to welcome us upon completion:
+In related news, at the same time as the bridge will be under construction, it seems likely an improved Northgate Mall will also be underway to welcome us upon completion:
 
 [Northgate Mall plans huge overhaul with housing, offices as North Seattle transforms](https://www.seattletimes.com/business/real-estate/northgate-mall-readies-huge-overhaul-with-office-and-housing-elements-as-north-seattle-neighborhood-transforms/)
 
