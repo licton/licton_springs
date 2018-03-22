@@ -6,7 +6,7 @@ Tags: General, Transportation, Pedestrian
 slug: pedestrian-bridge-meeting-updates
 og_image: images/bridge/neighborcare_health.jpg
 
-I was able to make it to the last community meeting scheduled  yesterday at Neighborcare Health to discuss the development of the new pedestrian bridge and wanted to share my main takeaways:
+I was able to make it to yesterdays meeting at Neighborcare Health to discuss the development of the new pedestrian bridge and wanted to share my main takeaways:
 
 - The college has expressed approval with the new design alleviating concerns that disagreements would lead to no bridge.
 
