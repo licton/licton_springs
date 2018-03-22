@@ -22,6 +22,6 @@ I was able to make it to the last community meeting scheduled  yesterday at Neig
 
 - VIA Architecture expressed pride in their work to create an affordable design that will still be an enjoyable experience to walk over, highlight the beauty inherit on both sides of I5, and act as another North Seattle landmark.
 
-- Talking with Eric from VIA Architecture, I learned that they use VR to verify all their. Which I just think is super cool.
+- Talking with Eric from VIA Architecture, I learned that they use VR to verify all their designs. Which I just think is super cool.
 
 I also learned about a ton of other exciting things planned for Licton Springs and the surrounding area that will be rolling out over the next few years. Expect a follow-up post with a full overview of all these changes and when we can expect them.
