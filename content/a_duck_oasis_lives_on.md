@@ -6,13 +6,9 @@ Tags: General, Outdoors
 slug: pillings-pond
 og_image: images/pond/ducks.jpg
 
-As the weather gets nicer, if you find yourself wanting to see some ducks you may think the best place to do so would be Green Lake or one of Seattle's many parks.
-However, the best place to catch a glimpse of the local duck population in Seattle is right here in Licton Springs. 
-Located on N 90th St between Densmore and Ashworth Ave N and near the new school: Pilling's Pond remains as a reminder of Chuck Pilling's legacy. This is the spot where he
-became the first successful breeder of the hooded merganser, bufflehead and harlequin ducks. Here you can still find hundreds of ducks enjoying the pond. While there has
-been some concern about the future of the pond due to a sale, the new owners have expressed their desire to keep the legacy going and have allowed Dave Kunkle to continue the maintance of this great North Seattle landmark. 
+As the weather gets nicer - if you find yourself wanting to see some ducks you may think the best place to do so would be Green Lake or one of Seattle's many parks. However, the best place to catch a glimpse of the local duck population in Seattle is right here in Licton Springs. Located on N 90th St between Densmore and Ashworth Ave N and near the new school: Pilling's Pond remains as a reminder of Chuck Pilling's legacy. This is the spot where he became the first successful breeder of the hooded merganser, bufflehead and harlequin ducks. Here you can still find hundreds of ducks enjoying the pond. While there has been some concern about the future of the pond due to a sale, the new owners have expressed their desire to keep the legacy going and have allowed Dave Kunkle to continue the maintenance of this great North Seattle landmark.
 
-NOTE: You can't enter the pond but can safely view the ducks from behind the wired fence. 
+NOTE: You can't enter the pond but can safely view the ducks from behind the wired fence.
 
 [![Sign](/images/pond/sign.jpg)](/images/pond/sign.jpg)
 [![Ducks 2](/images/pond/2.jpg)](/images/pond/2.jpg)
