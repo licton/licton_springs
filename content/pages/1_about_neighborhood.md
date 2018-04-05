@@ -2,7 +2,7 @@ Title: About Licton Springs
 Date: 2018-03-11 17:18
 Category: Information
 
-Licton Springs or North Green Lake is a small neighborhood located between Aurora Ave N and I5 North Seattle in the area they most closely converge within North Seattle:
+Licton Springs or North Green Lake is a small neighborhood located between Aurora Ave N and I5 North in the area they most closely converge within North Seattle:
 
 ![Licton Springs Bounderies](/images/bounderies.png)
 
