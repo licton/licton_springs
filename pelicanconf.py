@@ -23,8 +23,8 @@ AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
 
 THEME = 'attila'
 SITESUBTITLE = 'The Licton Springs Blog'
-SITE_DESCRIPTION = ('The blog for the beautiful Licton Springs neighborhood in Seattle, WA.'
-                    'Keep up to date on all the latest retail openings, neighborhood events, and news related to'
+SITE_DESCRIPTION = ('The blog for the beautiful Licton Springs neighborhood in Seattle, WA. '
+                    'Keep up to date on all the latest retail openings, neighborhood events, and news related to '
                     'this North Seattle neighborhood.')
 SHOW_SITESUBTITLE_IN_HTML = True
 HEADER_COVER = 'images/header.jpg'
