@@ -10,7 +10,7 @@ Want to stay up to date on all the community events and meetings going on in Lic
 
 1. Check out the [Licton Springs Community Calendar](https://lovelicton.com/pages/community-calendar.html).
 2. Discover all the [Ways to Get Involved](https://lovelicton.com/pages/get-involved.html) including the community groups available to join.
-3. Finally, if you want to [stay connected](https://lovelicton.com/pages/connect-with-us.html) to LoveLicton there are many ways including a dedicated [Facebook Group](https://www.facebook.com/groups/lovelicton/), [Instagram](https://www.instagram.com/lictonsprings/), and [RSS Feed](/feeds/all.rss.xml").
+3. Finally, if you want to [stay connected](https://lovelicton.com/pages/connect-with-us.html) to LoveLicton there are many ways including a dedicated [Facebook Group](https://www.facebook.com/groups/lovelicton/), [Instagram](https://www.instagram.com/lictonsprings/), and [RSS Feed](/feeds/all.rss.xml).
 
 Don't see your event or community group listed? Contact us at: [lovelicton@gmail.com](mailto:lovelicton@gmail.com).
 
