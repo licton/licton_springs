@@ -17,7 +17,7 @@ Rushing to the restaurant after work, I was greeted not by Tropicos Breeze, but 
 I ordered Pollo en Crema and Horchata - two of my favorite standbys from the old Tropicos Breeze. You know, just to make sure I was told the truth...
 And I can happily confirm: the food here is as tasty as ever!
 
-[![El Patio Patio](images/tropicos/food.jpg)](food.jpg)
-[![El Patio Patio](images/tropicos/menu.jpg)](menu.jpg)
+[![El Patio Patio](images/tropicos/food.jpg)](images/tropicos/food.jpg)
+[![El Patio Patio](images/tropicos/menu.jpg)](images/tropicos/menu.jpg)
 
 Whether you're a long time fan of the old Tropicos Breeze or just looking for some good Latin Cuisine, I encourage you to welcome El Patio to the neighborhood!
