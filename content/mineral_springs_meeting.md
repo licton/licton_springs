@@ -19,5 +19,5 @@ The meeting will be held at Meridian Health Clinic, room 110, 10521 Meridian Ave
 
 Hope to see you there!
 
-[FacebookEvent](https://www.facebook.com/events/620773244941071/)
+[Facebook Event](https://www.facebook.com/events/620773244941071/)
 [![2018 May Meeting](images/mineral_springs/2018_may_meeting.jpg)](images/mineral_springs/2018_may_meeting.jpg)
