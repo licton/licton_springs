@@ -7,7 +7,7 @@ slug: tesla_head_2018
 og_image: images/tesla/overview.jpg
 
 Right to the northwest of Licton Springs park at the Seattle City Light North Service Center lies a beautiful art piece by Merrily Tompkins.
-The art not only serves as a sign of nicer weather, as flowers bloom from Tesla's head but also serve as a great reminder that technology and
+The art not only serves as a sign of nicer weather, as flowers bloom from Tesla's head but also serves as a great reminder that technology and
 nature can coexist in harmony. In a way, it's the perfect Seattle art piece, a city nestled in some of the most profoundly beautiful natural
 environments while leading the way in our technological future.
 
