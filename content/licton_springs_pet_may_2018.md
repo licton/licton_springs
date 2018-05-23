@@ -1,5 +1,5 @@
 Title: Local Licton Pet Highlight - A Famous Licton Springs Resident
-Date: 2018-05-14 23:00
+Date: 2018-05-21 23:00
 Author: timothycrosley
 Category: Pet Corner
 Tags: Pets, Cats, Local Highlight, Local Celebrity
@@ -26,4 +26,4 @@ Want to see more Henri, Le Chat Noir?
 
 ## Have your own uniquely awesome pet or something you want to share with your neighbors?
 
-Let us know! We would love to feature your pet or story on our blog. Add a comment on this blog post or [contact us directly](http://localhost:8000/pages/connect-with-us.html).
+Let us know! We would love to feature your pet or story on our blog. Add a comment on this blog post or [contact us directly](/pages/connect-with-us.html).

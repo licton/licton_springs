@@ -87,7 +87,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 DISQUS_SITENAME = 'lovelicton'
 GOOGLE_ANALYTICS = 'UA-115518273-1'
 SHOW_FULL_ARTICLE = True
