@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'The Crosleys'
-SITENAME = 'Love Licton'
-SITEURL = 'https://lovelicton.com'
+AUTHOR = 'Licton Springs Community Council'
+SITENAME = 'Licton Springs Community Council'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -21,11 +21,10 @@ TRANSLATION_FEED_ATOM = 'feeds/all-%s.atom.xml'
 AUTHOR_FEED_ATOM = 'feeds/%s.atom.xml'
 AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
 
+INDEX_SAVE_AS = 'latest.html'
 THEME = 'attila'
-SITESUBTITLE = 'The Licton Springs Blog'
-SITE_DESCRIPTION = ('The blog for the beautiful Licton Springs neighborhood in Seattle, WA. '
-                    'Keep up to date on all the latest retail openings, neighborhood events, and news related to '
-                    'this North Seattle neighborhood.')
+SITESUBTITLE = 'Building Community Since 1990'
+SITE_DESCRIPTION = ('The official website for the Licton Springs Community Council.')
 SHOW_SITESUBTITLE_IN_HTML = True
 HEADER_COVER = 'images/header.jpg'
 SITE_LOGO = '/images/logo.png'
@@ -35,12 +34,14 @@ STATIC_PATHS = ['static',
                 'images/spring',
                 'extra/robots.txt', 
                 'extra/favicon.ico',
-                'extra/CNAME'
+                'extra/CNAME',
+                'extra/work_party.pdf'
 ]
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/CNAME': {'path': 'CNAME'}
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/work_party.pdf': {'path': 'work_party.pdf'},
 }
 
 COLOR_SCHEME_CSS = 'monokai.css'
@@ -61,20 +62,21 @@ AUTHORS_BIO = {
   }
 }
 SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
-                'right': 'Follow: <a href="https://twitter.com/LictonLove" style="color: #1da1f3; font-weight: bold;">'
+                'right': 'Follow: <a href="https://twitter.com/LictonSprings" style="color: #1da1f3; font-weight: bold;">'
                          'Twitter</a> '
-                         '<a href="https://www.facebook.com/lovelicton" style="color: #4267b2; font-weight: bold;">'
+                         '<a href="https://www.facebook.com/LictonSpringsNeighborhood/" style="color: #4267b2; font-weight: bold;">'
                          'Facebook</a> '
                          '<a href="https://www.instagram.com/lictonsprings/" style="color: black; font-weight: bold;">'
                          'Instagram</a>'
                          '<br />'
                          '<div style="margin: .5em">'
-                         'Contact: <a href="mailto:lovelicton@gmail.com" style="color: #e04c40; font-weight: bold">'
-                         'lovelicton@gmail.com</a></div>'
+                         'Contact: <a href="mailto: lictonsprings@hotmail.com" style="color: #e04c40; font-weight: bold">'
+                         ' lictonsprings@hotmail.com</a></div>'
                          '<br />'
-                         'Feed: <a href="localhost:8000/feeds/all.rss.xml" style="color: #ee802f; font-weight: '
-                         'bold;">RSS</a> <a href="localhost:8000/feeds/all.atom.xml" style="color: #07b392; '
-                         'font-weight: bold;">Atom</a>'}
+                         'Feed: <a href="/feeds/all.rss.xml" style="color: #ee802f; font-weight: '
+                         'bold;">RSS</a> <a href="/feeds/all.atom.xml" style="color: #07b392; '
+                         'font-weight: bold;">Atom</a><br /><br />'
+                         '<a href="https://www.paypal.com/donate/?token=NE1anuglqCz3JeajqvU-yxgiic3qyD912FQtG11H_ROYYde_Dw8dJwwzxZKa2TsbDVxygm&country.x=US&locale.x=US&Z3JncnB0=" style="color: green; font-weight: bold">Donate</a>'}
   
 SOCIAL = (('twitter', 'https://twitter.com/lictonlove'),
           ('facebook','https://facebook.com/lovelicton'),
@@ -87,10 +89,23 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
-DEFAULT_PAGINATION = 5
-DISQUS_SITENAME = 'lovelicton'
-GOOGLE_ANALYTICS = 'UA-115518273-1'
-SHOW_FULL_ARTICLE = True
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
 
+MENUITEMS = (
+    ('About Licton Springs', '/pages/about-licton-springs.html'),
+    ('Map of the Neighborhood', '/pages/neighborhood-map.html'),
+    ('Community Calendar', '/pages/community-calendar.html'),
+    ('Latest from the Council', '/latest.html'),
+    ('Neighborhood Blog', 'https://lovelicton.com'),
+    ('History of Licton Springs', '/pages/history-of-licton-springs.html'),
+    ('Old Website', 'https://timothycrosley.github.io/lictonsprings_org_legacy/index.html')
+)
+
+DEFAULT_PAGINATION = 5
+DISQUS_SITENAME = 'lictonsprings'
+GOOGLE_ANALYTICS = 'UA-115518273-2'
+SHOW_FULL_ARTICLE = True
+EXTRA_TEMPLATES_PATHS = ['templates', ]
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
