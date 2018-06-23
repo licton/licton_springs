@@ -6,5 +6,5 @@ Licton Springs is a beautiful neighborhood in North Seattle, bounded by Intersta
 
 ![Licton Springs Bounderies](/images/bounderies.png)
 
-The neighborhoods central location in North Seattle, express bus options, and quick access to the highway make it a great place to be a commuter.
+The neighborhood's central location in North Seattle, express bus options, and quick access to the highway make it a great place to be a commuter.
 Its strong sense of community, beautiful green space, and rich history make it a great place to call home.

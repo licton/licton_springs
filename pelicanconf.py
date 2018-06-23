@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Licton Springs Community Council'
 SITENAME = 'Licton Springs Community Council'
-SITEURL = ''
+SITEURL = 'https://lictonsprings.community'
 
 PATH = 'content'
 
@@ -34,14 +34,14 @@ STATIC_PATHS = ['static',
                 'images/spring',
                 'extra/robots.txt', 
                 'extra/favicon.ico',
+                'extra/work_party.pdf',
                 'extra/CNAME',
-                'extra/work_party.pdf'
 ]
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/CNAME': {'path': 'CNAME'},
     'extra/work_party.pdf': {'path': 'work_party.pdf'},
+    'extra/CNAME': {'path': 'CNAME'},
 }
 
 COLOR_SCHEME_CSS = 'monokai.css'
