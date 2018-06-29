@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Licton Springs Community Council'
 SITENAME = 'Licton Springs Community Council'
-SITEURL = 'https://lictonsprings.community'
+SITEURL = 'https://lictonsprings.org'
 
 PATH = 'content'
 
@@ -32,7 +32,7 @@ CSS_OVERRIDE = ['static/main.css']
 STATIC_PATHS = ['static',
                 'images',
                 'images/spring',
-                'extra/robots.txt', 
+                'extra/robots.txt',
                 'extra/favicon.ico',
                 'extra/work_party.pdf',
                 'extra/CNAME',
@@ -77,7 +77,7 @@ SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
                          'bold;">RSS</a> <a href="/feeds/all.atom.xml" style="color: #07b392; '
                          'font-weight: bold;">Atom</a><br /><br />'
                          '<a href="https://www.paypal.com/donate/?token=NE1anuglqCz3JeajqvU-yxgiic3qyD912FQtG11H_ROYYde_Dw8dJwwzxZKa2TsbDVxygm&country.x=US&locale.x=US&Z3JncnB0=" style="color: green; font-weight: bold">Donate</a>'}
-  
+
 SOCIAL = (('twitter', 'https://twitter.com/lictonlove'),
           ('facebook','https://facebook.com/lovelicton'),
           ('envelope','mailto:lovelicton@gmail.com'))
