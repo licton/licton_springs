@@ -19,7 +19,7 @@ and happiness, and to promote a quality of life
 consonant with an urban, residential community
 ```
 
-And continues that mission to this day. 
+And continues that mission to this day.
 
 To accomplish these goals we:
 
@@ -36,7 +36,7 @@ Have an idea for how to improve the community? Want to work with us to set up an
 We'd love to know!
 
 
-<form method="POST" action="https://formspree.io/lictonsprings@hotmail.com">
+<form method="POST" action="https://formspree.io/lictonspringscouncil@gmail.com">
   <input type="text" name="name" placeholder="Your Name" style="width: 80%; display: block; clear: both; margin: 5%;">
   <input type="email" name="email" placeholder="Your email" style="width: 80%; display: block; clear: both; margin: 5%;">
   <textarea name="message" placeholder="Your message" style="width: 80%; display: block; clear: both; margin: 5%; height: 20em"></textarea>
