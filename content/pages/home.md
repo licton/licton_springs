@@ -57,4 +57,8 @@ We will get back to you as soon as possible, and if appropriate add your item to
 * Come to the community council meeting (held the third Wednesday of the month at 6:30pm at Meridian Center for Health)
 * [Join the Friends of Licton Springs monthly work party](/work_party.pdf)
 * [Find Volunteer Events on our Calendar](/pages/community-calendar.html)
-* [Donate](https://www.paypal.com/donate/?token=NE1anuglqCz3JeajqvU-yxgiic3qyD912FQtG11H_ROYYde_Dw8dJwwzxZKa2TsbDVxygm&country.x=US&locale.x=US&Z3JncnB0=)
+* <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypal">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="5ES6SDXL2XPFN">
+        <a href="#donate" onclick="document.getElementById('paypal').submit();">Donate</a>
+    </form>
