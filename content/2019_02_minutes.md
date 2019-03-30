@@ -16,7 +16,7 @@ Directors present: Thomas Stachiw, Ellen Beck, Melanie Davies, Liz Kearns, Amand
 
 1. Introductions
 
-2. Minutes Feb. 16 , 2019 were approved as distributed.
+2. Minutes Jan. 16 , 2019 were approved as distributed.
 
 3. Letter from Tim Motzer to Debora Juarez from Lake City Neighborhood Alliance (attached) asking for the Council's endorsement. Directors discussed it and had questions about the fee structure and asked Kathleen to send note to Tim declining but that we hope in the future to have a discussion on MHA and fees with other community groups such as LCNA.
 
