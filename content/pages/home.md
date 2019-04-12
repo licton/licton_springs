@@ -54,7 +54,7 @@ We will get back to you as soon as possible, and if appropriate add your item to
 
 
 # Get Involved
-* Come to the community council meeting (held the third Wednesday of the month ~~at 6:30pm at Meridian Center for Health~~ temporarily at 6:00PM at Northgate Community Center)
+* Come to the community council meeting (held the third Wednesday of the month <s>at 6:30pm at Meridian Center for Health</s> temporarily at 6:00PM at the Northgate Community Center)
 * [Join the Friends of Licton Springs monthly work party](/work_party.pdf)
 * [Find Volunteer Events on our Calendar](/pages/community-calendar.html)
 * <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypal">
