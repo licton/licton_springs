@@ -23,7 +23,7 @@ And continues that mission to this day.
 
 To accomplish these goals we:
 
-1. Provide a public forum for discussion through our public meetings held the third Wednesday of the month at 6:30pm at Meridian Center for Health.
+1. Provide a public forum for discussion through our public meetings held the third Wednesday of the month at 6:30pm.
 2. Assume the role of official voice for the Licton Springs Neighborhood in dealing with public and private organizations.
 3. Keep the community informed through contributions to [the neighborhood blog](https://lovelicton.com/), monthly meeting minutes, and our newsletter.
 4. Join with other community organizations on issues of mutual concern.
