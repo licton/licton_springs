@@ -56,7 +56,7 @@ We will get back to you as soon as possible, and if appropriate add your item to
 # Get Involved
 * Come to the community council meeting (held the third Wednesday of the month at 6:30pm, location TBA)
     * **NOTE:** There is no council meeting in August.
-* [Join the Friends of Licton Springs monthly work party](/work_party.pdf)
+* [Join the Friends of Licton Springs monthly work party](https://lovelicton.com/images/LictonSpringsPark2020.JPG)
 * [Find Volunteer Events on our Calendar](/pages/community-calendar.html)
 * <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypal">
         <input type="hidden" name="cmd" value="_s-xclick">
