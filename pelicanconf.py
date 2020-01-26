@@ -43,6 +43,7 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/work_party.pdf': {'path': 'work_party.pdf'},
     'extra/CNAME': {'path': 'CNAME'},
+    'extra/historical_minutes.docx': {'path': 'historical_minutes.docx'},
 }
 
 COLOR_SCHEME_CSS = 'monokai.css'
