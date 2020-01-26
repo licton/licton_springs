@@ -35,6 +35,7 @@ STATIC_PATHS = ['static',
                 'extra/robots.txt',
                 'extra/favicon.ico',
                 'extra/work_party.pdf',
+                'extra/historical_minutes.docx',
                 'extra/CNAME',
 ]
 EXTRA_PATH_METADATA = {
@@ -99,7 +100,8 @@ MENUITEMS = (
     ('Latest from the Council', '/latest.html'),
     ('Neighborhood Blog', 'https://lovelicton.com'),
     ('History of Licton Springs', '/pages/history-of-licton-springs.html'),
-    ('Old Website', 'https://licton.github.io/lictonsprings_org_legacy/index.html')
+    ('Old Website', 'https://licton.github.io/lictonsprings_org_legacy/index.html'),
+    ('Historical Minutes', '/historical_minutes.docx')
 )
 
 DEFAULT_PAGINATION = 5
