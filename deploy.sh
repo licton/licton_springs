@@ -1,5 +1,5 @@
 git clone https://github.com/timothycrosley/attila.git
-pelican-themes -i attilla
+pelican-themes -i attila
 rm -rf attila
 pelican
 ghp-import output -b gh-pages
