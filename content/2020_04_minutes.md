@@ -1,4 +1,6 @@
-Title: Council Meeting Minutes April 2020 Date: 2020-04-15 18:30 Category: Minutes
+Title: Council Meeting Minutes April 2020
+Date: 2020-04-15 18:30
+Category: Minutes
 
 **LICTON SPRINGS COMMUNITY COUNCIL**
 
