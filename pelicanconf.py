@@ -102,7 +102,8 @@ MENUITEMS = (
     ('Neighborhood Blog', 'https://lovelicton.com'),
     ('History of Licton Springs', '/pages/history-of-licton-springs.html'),
     ('Old Website', 'https://licton.github.io/lictonsprings_org_legacy/index.html'),
-    ('Historical Minutes', '/historical_minutes.docx')
+    ('Historical Minutes', '/historical_minutes.docx'),
+    ('Council Bylaws', '/pages/bylaws.html'),
 )
 
 DEFAULT_PAGINATION = 5
