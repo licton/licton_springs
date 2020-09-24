@@ -1,5 +1,5 @@
-Title: Council Meeting Minutes June 2020
-Date: 2020-06-19 18:30
+Title: Council Meeting Minutes July 2020
+Date: 2020-07-15 18:30
 Category: Minutes
 
 **LICTON SPRINGS COMMUNITY COUNCIL**
