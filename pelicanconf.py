@@ -103,7 +103,7 @@ MENUITEMS = (
     ('History of Licton Springs', '/pages/history-of-licton-springs.html'),
     ('Old Website', 'https://licton.github.io/lictonsprings_org_legacy/index.html'),
     ('Historical Minutes', '/historical_minutes.docx'),
-    ('Council Bylaws', '/pages/bylaws.html'),
+    ('Council Bylaws', '/pages/licton-springs-community-council-bylaws.html'),
 )
 
 DEFAULT_PAGINATION = 5
