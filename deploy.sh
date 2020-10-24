@@ -1,6 +1,6 @@
 git clone https://github.com/timothycrosley/attila.git
-pelican-themes -i attila
+venv/bin/pelican-themes -i attila
 rm -rf attila
-pelican
-ghp-import output -b gh-pages
+venv/bin/pelican
+venv/bin/ghp-import output -b gh-pages
 git push origin gh-pages
