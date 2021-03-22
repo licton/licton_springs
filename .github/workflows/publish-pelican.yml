@@ -1,0 +1,42 @@
+name: Build Pelican and Publish
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push events but only for the master branch
+  push:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Set up Python3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Checkout Theme
+        uses: actions/checkout@v2
+        with:
+          repository: timothycrosley/attila
+          path: attila
+          
+      - name: Install Theme
+        run: |
+          pelican-themes -i attila
+          
+      - name: Publish Pelican
+        uses: nelsonjchen/gh-pages-pelican-action@0.1.7
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
