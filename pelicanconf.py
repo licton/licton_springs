@@ -36,6 +36,7 @@ STATIC_PATHS = ['static',
                 'extra/favicon.ico',
                 'extra/work_party.pdf',
                 'extra/historical_minutes.docx',
+                'extra/LSCC_Bylaws_2018-02-21.pdf',
                 'extra/CNAME',
 ]
 EXTRA_PATH_METADATA = {
@@ -44,6 +45,7 @@ EXTRA_PATH_METADATA = {
     'extra/work_party.pdf': {'path': 'work_party.pdf'},
     'extra/CNAME': {'path': 'CNAME'},
     'extra/historical_minutes.docx': {'path': 'historical_minutes.docx'},
+    'extra/LSCC_Bylaws_2018-02-21.pdf': {'path': 'LSCC_Bylaws_2018-02-21.pdf'},
 }
 
 COLOR_SCHEME_CSS = 'monokai.css'
