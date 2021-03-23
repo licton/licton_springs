@@ -31,7 +31,7 @@ Minutes of Nov. 18, 2020 were approved as circulated.  Treasurer’s Report was 
 
 4. Homelessness: Melanie led a discussion to update on issues of unhoused populations in the neighborhood. The group discussed City policy, presence of campers in the park and at Green Lake.  
 
-5. Parks- Liz Kearns sent in a note that work groups are being held in Mineral Springs and Licton Springs Parks, following proper protocols for pandemic safety.
+5. Parks: Liz Kearns sent in a note that work groups are being held in Mineral Springs and Licton Springs Parks, following proper protocols for pandemic safety.
 
 6. Business members: The Board agreed to ask Liz to congratulate Pilgrim Coffee which has moved into the Starbucks space at Oak Tree and invite as a business member of LSCC and to have Kathleen due likewise with Salt Blade Meats
 
