@@ -57,7 +57,7 @@ At the bottom of the edit page, click the "Propose new file" button.
 
 On the next page, click the "Create pull request" button
 
-![create pull request](./lscc_create_pull_request.png)
+![create pull request](./lscc_github_create_pull_request.png)
 
 ## Wait for website maintainers to put the new minutes online
 
