@@ -32,22 +32,26 @@ Category: Minutes
 Approved Minutes MM DD YYYY, MTG TIME P.M.
 
 ### Attendance Notes
+
 - Directors Present:
 - General Members Present:
 - Business and Honorary Members Present:
 -  Other Visitors Present: 
 
 ### Welcome and House-Keeping
+
 - Item (Introductions possibly)
 - Item (minutes approved possibly)
 - Item
 
 ### Agenda Item 1
+
 - Note 1
 - Note 2
 - Note 3
 
 ### Agenda Item 2
+
 - Note 1
 - Note 2
 - Note 3
