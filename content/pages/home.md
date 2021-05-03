@@ -10,14 +10,12 @@ status: hidden
 If you live, work, or conduct business in Licton Springs: the Community Council acts as your ally, advocate, and connector.
 The council was formed in 1990 to:
 
-```
-Represent the interests of the residents and the
-owners of commercial and professional businesses
-in the Licton Springs Neighborhood of the City of
-Seattle, Washington, to improve community welfare
-and happiness, and to promote a quality of life
-consonant with an urban, residential community
-```
+> Represent the interests of the residents and the
+> owners of commercial and professional businesses
+> in the Licton Springs Neighborhood of the City of
+> Seattle, Washington, to improve community welfare
+> and happiness, and to promote a quality of life
+> consonant with an urban, residential community
 
 And continues that mission to this day.
 
