@@ -20,26 +20,62 @@ https://github.com/licton/licton_springs/tree/master/content
 
 Your filename should have the format `YYYY_MM_minutes.md`.
 
-The file must have the following lines at the top:
+Use the following template:
 
 ```
 Title: Council Meeting Minutes MONTH YEAR
 Date: YYYY-MM-DD 18:30
 Category: Minutes
 
+## LICTON SPRINGS COMMUNITY COUNCIL
+
+Approved Minutes MM DD YYYY, MTG TIME P.M.
+
+### Attendance Notes
+- Directors Present:
+- General Members Present:
+- Business and Honorary Members Present:
+-  Other Visitors Present: 
+
+### Welcome and House-Keeping
+- Item (Introductions possibly)
+- Item (minutes approved possibly)
+- Item
+
+### Agenda Item 1
+- Note 1
+- Note 2
+- Note 3
+
+### Agenda Item 2
+- Note 1
+- Note 2
+- Note 3
+
+##### Minutes by NAME, Secretary OR Board Position
+#### Next meeting MM DD
+
+## Licton Springs Community Council Monthly Treasurer Report 
+
+MM/DD/YYYY through MM/DD/YYYY
+
+Date | Fund Type | Line Item | Transaction Amount | Bank Balance  
+------------ | ------------ | ------------- | ------------- | -------------
+MM/DD/YYYY  | Combined Funds | Beginning Bank Balance  | -  | $BALANCE
+MM/DD/YYYY  | LSCC General OR Park | ITEM  | $XX.XX  | $BALANCE
+
+Fund Type | Fund Amount
+------------ | -------------
+Funds for Licton Springs Community Council | $AMOUNT
+Dedicated Funds for Licton Springs Park | $AMOUNT
+TOTAL Combined Funds | $AMOUNT
+
+###### NOTES:  
+
+Any additional Treasurer notes go here, including the notes about the Fred Meyer Donations. 
 
 ```
-fill in the above template with the information for the meeting minutes you're adding.
 
-For the March 2021 meeting, this would look like:
-
-```
-Title: Council Meeting Minutes March 2021
-Date: 2021-03-17 18:30
-Category: Minutes
-
-
-```
 
 ![edit file](./lscc_github_edit_file.png)
 
