@@ -53,11 +53,11 @@ resource: https://guides.github.com/features/mastering-markdown/#examples
 
 At the bottom of the edit page, click the "Propose new file" button.
 
-![propose new file](./lscc_github_propose_new_file)
+![propose new file](./lscc_github_propose_new_file.png)
 
 On the next page, click the "Create pull request" button
 
-![create pull request](./lscc_create_pull_request)
+![create pull request](./lscc_create_pull_request.png)
 
 ## Wait for website maintainers to put the new minutes online
 
