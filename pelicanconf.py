@@ -27,6 +27,7 @@ SITESUBTITLE = 'Building Community Since 1990'
 SITE_DESCRIPTION = ('The official website for the Licton Springs Community Council.')
 SHOW_SITESUBTITLE_IN_HTML = True
 HEADER_COVER = 'images/header.jpg'
+HEADER_COVERS_BY_CATEGORY = {}
 SITE_LOGO = '/images/logo.png'
 CSS_OVERRIDE = ['static/main.css']
 STATIC_PATHS = ['static',
