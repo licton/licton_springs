@@ -1,33 +1,65 @@
-Title: Council Meeting Minutes Feb 2021
+Title: Council Meeting Minutes February 2021
 Date: 2021-02-17 18:30
 Category: Minutes
 
-**LICTON SPRINGS COMMUNITY COUNCIL**
 
-Approved Minutes Feb. 17 2021 6:30-8:30 P.M.
+## LICTON SPRINGS COMMUNITY COUNCIL
 
-Online meeting by Zoom due to Corona virus restrictions
+Approved Minutes March 17 2021 6:30-7:40 P.M.
 
-Directors present: Lindsey Webb, Melanie Davies, Liz Kearns, Bekah Gautrowski, Michael Cuadra, and Kathleen Braden
+**Attendance Notes** 
 
-Attendees: Dianne Trani, Matt Gautrowski, Janice Holkup, Noah An (from Dan Strauss office)
+- Online meeting by Zoom due to Coronavirus restrictions
+- Directors present: Janice Lichtenwaldt, Lindsey Webb, Melanie Davies, Liz Kearns, Bekah Gautrowski, Michael Cuadra, and Kathleen Braden
+- Business Representatives present: Bob Blade (Salt Blade) 
+- Attendees: Joy McEldery, Dianne Trani, Matt Gautrowski, Osbaldo Hernandez
 
-Melanie started the meeting at 6:35 and welcomed everyone.  
+**Introductions and House-Keeping**
 
-Minutes of  Jan 27 2021were approved as circulated.  
+- Janice started the meeting at 6:35 and welcomed everyone.  
+- Minutes of  Feb. 17 2021 were approved as circulated. Treasurer’s Report was approved (attached below). Liz noted that the Parks’ tools fund is specially designated.
+- Osbaldo noted he is now on the City’s team to coordinate vaccinations, especially for the Lumen field site, but that he hopes there will be special sites for North Seattle in the future. He will be reaching out to LSCC and other neighborhood groups for help in getting the word out and getting people registered.
+- Other attendees introduced themselves and noted some issues of interest, including homeless population in the area and property crime.
 
-Noah An discussed fossil fuels policy decisions for new construction, Hope Team startup, COVID relief funding.
+**Nominations for the Board of Directors**
 
-Bekah reported on her establishment of an ad-hoc committee for by-law revisions.
+- The group discussed the need to update by-laws, including on the election of Board members and officers. M/S/A to suspend the by-laws re:voting process and allow a verbal vote both for nominations at this meeting and elections at April 21 meeting. 
+- Nominations approved for Board of Directors (to be voted on at April meeting) 
+  - For two year terms to 2023: Ellen Beck, Kathleen Braden, Mike Cuadra, Bekah Gautrowski, Janice Lichtenwaldt, Lindsey Webb, Bob Blade. 
+  - For one year term to 2022: Liz Kearns, Melanie Davies. 
 
-Kathleen reported that Bob Blade of Blade Meats was happy to be invited as a business member and agreed.  She contacted Osbaldo Hernandez of DON but he has not responded.  She met with John Lombard of D5 group and will be meeting Feb 19 with him and others to look at pedestrian bridge construction progress.  She also reported on email from Lee Bruch on group “Fix Aurora” email attached and the Council agreed to indicate our support for this effort. Their next meeting is Feb 26 at 7 PM. 
+**Updates to ongoing committee and council work**
 
-Melanie noted email from Jenny Frankl (attached) re cleanup. 
+- Janice will continue outreach to Amanda and Tim re:coordinating with Matt on the website for the Council.
+- Melanie will be attending the Aurora Reimagined Coalition meeting upcoming.
+- Kathleen reported on the Community Roots zoom meeting re housing at the Northgate Area (link: https://communityrootshousing.org/2021/02/northgate_tod_give_input/) .
+- Mike reported on NPAC meeting and plans for housing at North Seattle College, something in very early planning stages.
 
-Mike reported on NPAC meeting where homelessness and trash cleanup was discussed and they heard from Kevin Mundt of Hope Team.
+**Additional Agenda Items**
 
-Lindsey raised possibility of another music event in the neighborhood, perhaps over the summer and the idea was favorably received.
+- Bob noted that unhoused populations may be able to receive the government stimulus money okayed from federal government via debit card if they do not have bank accounts.
 
 Minutes by Kathleen Braden, Secretary
 
-Next meeting   March 17
+### Next meeting: April 21
+
+## Licton Springs Community Council Monthly Treasurer Report 
+
+1/23/2021 through 3/15/2021
+
+Date | Line Item | Transaction Amount | Bank Balance  
+------------ | ------------- | ------------- | -------------
+01/23/2021  | Beginning Bank Balance  | $0.00  | $6,494.04
+01/30/2021  | Donation from Kroger  | $3.09  | $6,497.13
+02/03/2021  | Grant for LSPark tools deposited by Liz Kearns  | $1,650.00  | $8,147.13
+
+Fund Type | Fund Amount
+------------ | -------------
+Funds for Licton Springs Community Council | 4,469.05
+Dedicated Funds for Licton Springs Park | $3,678.08
+TOTAL Combined Funds | $8,147.13
+
+
+###### NOTES:  
+
+We received an email from Fred Meyer on 4/28/2020 of .44 donation, but this has not reached our Verity account and will not until it reaches $25.00.
