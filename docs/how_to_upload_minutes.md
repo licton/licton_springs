@@ -20,7 +20,19 @@ https://github.com/licton/licton_springs/tree/master/content
 
 Your filename should have the format `YYYY_MM_minutes.md`.
 
-Use the following template:
+The month you use in the filename should be the month of the meeting.
+The datetime you use in the template would be the datetime of the meeting.
+
+Note: Meetings are approved at the next meeting.
+
+If I am posting the February 2021 meeting minutes, I'll use `2021_02_minutes.md` as the filename.
+
+```
+Title: Council Meeting Minutes Feb 2021
+Date: 2021-02-17 18:30
+```
+
+### Use the following template:
 
 ```
 Title: Council Meeting Minutes MONTH YEAR
