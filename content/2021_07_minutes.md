@@ -3,7 +3,10 @@ Date: 2021-07-21 18:30
 Category: Minutes
 
 ## Licton Springs Community Council
-Approved Minutes July 21, 6:30pm
+Meeting Date/Time: July 21, 6:30pm
+
+These meeting minutes were approved at the September 2021 meeting.
+
 
 ### Attendance Notes
 
