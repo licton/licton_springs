@@ -41,7 +41,9 @@ Category: Minutes
 
 ## LICTON SPRINGS COMMUNITY COUNCIL
 
-Approved Minutes MM DD YYYY, MTG TIME P.M.
+Meeting Date/Time: MM DD YYYY, MTG TIME P.M.
+
+These meeting minutes were approved at the MM YYY meeting.
 
 ### Attendance Notes
 
