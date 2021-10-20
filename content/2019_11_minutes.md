@@ -4,7 +4,10 @@ Category: Minutes
 
 **LICTON SPRINGS COMMUNITY COUNCIL**
 
-Approved Minutes November 20, 2019 6:30-8:30 P.M.
+These minutes were approved at the December 2019 Meeting.
+
+Meeting Date/Time: November 20, 2019 6:30-8:30 P.M.
+
 
 Cascadia School Hallway
 

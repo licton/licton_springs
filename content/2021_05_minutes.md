@@ -2,93 +2,70 @@ Title: Council Meeting Minutes May 2021
 Date: 2021-05-19 18:30
 Category: Minutes
 
+
 ## LICTON SPRINGS COMMUNITY COUNCIL
 
-Approved Minutes June 16, 2021, 6:30 P.M.
+Meeting Date/Time: May 19 2021 6:30-8:00 P.M.
 
-### Attendance Notes
-- Directors Present: Melanie Davies, Mike Cuadra, Kathleen Braden, Liz Kearns, Bekah Gautrowski, Bob Blade, Lindsey Webb
-- General Members Present: Dianne Trani, Janice Holkup, Ellen Beck, Nina Kaseberg, Kevin Sheets
+These meeting minutes were approved at the June 2021 meeting.
 
-### Welcome and House-Keeping
-- Melanie started the meeting and welcomed everyone at 6:35. Attendees introduced themselves.
 
-### Approval of Minutes & Treasurer's Report
-- The minutes and Treasurer’s Report were approved. Bekah asked for clarification on what was meant in the Treasurer’s Report by “Ending Balance reflects $10.00 held in PayPal account.” Liz explained that Kevin Sheets made a $10.00 donation to LSCC via PayPal and that she is working on getting the balance transferred to the LSCC bank account.
+**Attendance Notes** 
 
-### Hearing from Neighbors & Visitors
-- Melanie asked for topics of discussion from attendees but there were none at that time.
+- Online meeting by Zoom due to Coronavirus restrictions
+- Directors present: Melanie Davies, Mike Cuadra, Kathleen Braden, Liz Kearns, Bekah Gautrowski, Bob Blade, Lindsey Webb
+- Attendees: Dianne Trani, Janice Holkup, Ellen Beck, Danielle Rosenow
 
-### Potential Play Street
-- Bekah talked about the possibility of a closed play street sometime this summer, likely on Densmore. She said the permit process through the city is not complicated and the cost is low. There was a discussion about whether to have this as a separate event as the music in the park event Lindsey is working on, the group decided a separate event would be better so as not to take attention away from any musical performance. Bekah will take the lead on planning this for sometime in August and will provide information to the Board of Directors via email or at the next meeting.
 
-### Music in the Park Update
-- Lindsey has been corresponding with Boundless NW about planning a Music in the Park event at Licton Springs Park in either July or August. Rob with Boundless NW has been in touch with the City of Seattle about permits, and it shouldn’t be a heavy lift in that respect. Rob’s suggestion is to have centralized music with a small stage. Lindsey will keep the group updated.
+**Introductions, House-Keeping, and Reports from Visitors**
 
-### By-laws Committee Update
-- Bekah let everyone know the By-Laws Committee, an ad hoc committee that is working on updating LSCC’s by-laws, will meet on June 29th at 7:00pm via Zoom. Anyone is welcome to join this meeting.
-	Zoom info:	https://us02web.zoom.us/j/82248174726?pwd=dHZEN1h1TUJnL1RScTV1d3l5Vnd4QT09 
-Dial-in: 253.215.8782
-Meeting ID: 822 4817 4726
-Passcode: 335608
+- Melanie started the meeting and welcomed everyone at 6:35. 
+- The minutes were approved. 
+- Melanie asked for topics of discussion from attendees.
+- Janice Holkup shared information from Rep. Javier Valdez’ email newsletter outlining funding for the 46th district in the final state budget. This included $500,000 for the Aurora Commons acquisition, $150,000 to fund art by BIPOC artists at the Kraken training center, $30,519,000 for the North Seattle College library building renovation, $1,880,000 for library improvement grants, and $2,000,000 for the UW Medical Center NW behavioral health renovation.
+- Bob Blade talked about Aurora Reimagined, a new coalition that seeks to provide input in the city’s planning efforts around Highway 99. Melanie added that the city is at the conceptual level in planning right now and that it’s time to throw out broad, big ideas.
+- The treasurer’s report was approved.
 
-### Northgate Pedestrian Bridge Update
-- Lindsey let the group know the section of the bridge over northbound I-5 has been installed and this coming weekend southbound I-5 will be closed and cars will be rerouted so the other section can be installed. More information at SDOT’s website here.
 
-### North Seattle College President's Advisory Board Update
-- Lindsey is now the LSCC representative to the NSC President’s Advisory Board update. The meeting in May included introductions of NSC leadership and advisory board members, NSC actions to address COVID-19, and an update on the upcoming Bellwether Housing project.
+**Updates to ongoing committee and council work**
 
-### Greenlake Community Center Update
-- Mike gave a status report on the Green Lake Community Center. The center is in the design and feasibility stage and leaders are currently applying for city landmark status. The boiler update is complete. The Green Lake Advisory Council is advocating for $5,000,000 to complete design and permitting.
+- LSCC BANK ISSUE: Liz talked about the issue of removing Jan Brucker as a signer for LSCC’s bank account at Verity since she is no longer part of the council. As treasurer, Liz said her priority is to have new signers who are easy to get in touch with. She noted the bank would need a copy of the minutes indicating who LSCC directors voted in as new signers, and then she could help initiate paperwork. The directors voted unanimously to approve a motion to remove Jan Brucker as a signer on the LSCC Verity checking account. There was some discussion about the appropriate number of new signers. The directors voted to approve a motion to allow four signers, the voted to add Lindsey Webb and Melanie Davies as signers on LSCC’s Verity checking account.
+- AURORA REIMAGINED COALITION: Melanie talked further about the Aurora Reimagined Coalition (website: www.got99problems.org) A large part of the city’s work on Aurora will be design guidelines related to pedestrian access, turn lanes, crossings, etc. The group meets once per month and will be holding revisioning workshops in July and August. Neighborhood residents can sign up on the website for updates. ALUV will likely be involved.
+- NORTHGATE LIGHT RAIL UPDATE: Melanie told the group that the pedestrian bridge between North Seattle College and the Northgate Link Light Rail station will be in place by the end of June. (Project link: http://www.seattle.gov/transportation/projects-and-programs/programs/bridges-stairs-and-other-structures/bridges/northgate-pedestrian-and-bicycle-bridge)
+- NORTH POLICE PRECINCT UPDATE: Melanie talked about a series of dialogues the Seattle Police Department North Precinct will be hosting. These will be an opportunity to talk more deeply about the police department and the community. Three dialogues will take place in each of the five precincts, including some in Licton Springs. Interested residents can sign up here: https://seattleux.qualtrics.com/jfe/form/SV_9BSU8pPfHcc0tRY
+- PRECINCT REPORT: Mike gave a precinct report. At the last meeting, hosts went over each new state law related to policing. Governor Inslee has signed all but two. One new law establishes a duty for officers to intervene and report. The hosts of the meeting talked about the encampment at the part being cleaned up. On the first Wednesday of the month, social workers went to the site to let people know they would need to leave. There had been some incidents that led to the decision to clear the park. Car theft and homicides are up recently in general, but crime is down locally. 
+- BELLWEATHER HOUSING: Lindsey will be sending out a link to a survey Bellwether housing is conducting related to their future housing project and long house at North Seattle College. They are looking for community input on the project.
+- LISTSERV DISCUSSION: There was a discussion about outreach and information sharing via the listserv on the Licton Springs hotmail account. Attendees agreed that less is more when it comes to using the hotmail account for sharing information. However, there was some discussion about increasing outreach via social media like Facebook and Instagram. The directors voted to create a Licton Springs Instagram account. Lindsey volunteered to manage the account. She will also add Bekah as an admin on the Licton Springs Neighborhood account and remove Janice Lichtenwaldt.
 
-### Guests for Future Meetings
-- Melanie asked if we could consider having a guest from Bellwether Housing present at the next meeting. Lindsey added that a guest from the Aurora Reimagined Coalition would be good also. Lindsey will reach out to Bellwether and Melanie will reach out to Aurora Commons for a contact at Aurora Reimagined.
 
-### North Precinct Report
-- Mike gave an update on a few matters related to the North Precinct. He said crimes are up in the north end, particularly robberies and assault. There was a discussion about theft of catalytic converters on cars, based on stories attendees had heard from other areas. Mike is going to ask for any information on this at the next North Precinct update meeting.
-- There was a question of whether prostitution is happening at a higher level right now. Mike pointed out that this is, in many cases, human trafficking. Melanie asked if the issue would be worth reaching out to City Council about to see what the city is doing to address this. Bekah mentioned that with the upcoming hot summer, it would be great for residents to share water and extra masks with sex workers on Aurora if they see a need. Janice Holkup said Aurora Commons provides services to folks in the area but that their long-time Executive Director is leaving.
+**Event Planning**
+- MUSIC IN THE PARK: There was a discussion about a music in the park event. Lindsey has been in email conversation with Boundless NW about an event over the summer. Dianne Trani asked about the cost of such an event. Lindsey said the council paid musicians ~$150 each for last year’s event.
+- HALLOWEEN EVENTS: There was a discussion about a potential Halloween event but the topic was informally tabled as it’s several months away and the COVID-19 situation could be different then. Bob will get in touch with Casey at Epic Life Church for an update on what they’re doing.
 
-### Licton Springs Park Activity
-- Community member Nina asked what the best course of action is if there is suspicious or dangerous activity going on in the park (for example, a resident of the park burning plastic materials). Liz suggested using the Find It Fix It app and also calling the fire department, as they are familiar with the person who is doing this. Nina asked if background checks are ever conducted for folks living in the park given proximity to kids. Kathleen talked about her positive experience with SPD’s community service officer - this is different from typical police activity.
 
-### New Licton Springs Park Signage
-- Matt Remle is planning a celebration to dedicate new Licton Springs park signage later this summer and the council will likely be invited to attend (but not have a speaking role). There will be a rock etching installed leading to the spring head. Liz will talk to Matt about particulars and get back to us. There was a discussion about gift giving at the event, as this is important in many indigenous cultures. Community member attendee Nina has a friend who may be able to provide insight on appropriate gifts. Lindsey will connect with Nina separately on this.
+Minutes by Lindsey Webb, Secretary
 
-### Halloween Event
-- Kathleen asked about whether the council would like to start planning a Halloween event. Other board members agreed that waiting until September to take the temperature on the pandemic situation, etc. would be fine.
-
-### Meeting Format
-- Lindsey inquired as to whether the council would be open to discussing in-person meetings again. Other members agreed it would be fine to table until the September meeting, but one option is to have quarterly meetings in person and others would be virtual, as it’s easier for many people to attend this way.
-
-### Halloween Celebration
-There was a discussion about a potential Halloween event but the topic was informally tabled as it’s several months away and the COVID-19 situation could be different then.
-
-### Housing in Licton Springs
-- There was a discussion about rising housing prices and how they will affect Licton Springs residents. Melanie mentioned the Community Land Trust, which is an organization that buys property in various ways for the purpose of providing housing to people like teachers, police, firefighters, and other essential workers who may not be able to purchase or rent a home at market rate in the area. She encouraged attendees to refer people with affordability concerns to the Community Land Trust. Janice Holkup mentioned there will be another tiny house village going up in north Seattle soon.
-
-##### Minutes by Lindsey Webb, Secretary
-#### Next meeting July 21
+### Next meeting: June 16
 
 ## Licton Springs Community Council Monthly Treasurer Report 
 
-05/20/2021 through 06/16/2021
+4/21/2021 through 5/19/2021
 
-Date | Fund Type | Line Item | Transaction Amount | Bank Balance  
------------- | ------------ | ------------- | ------------- | -------------
-05/20/2021  | Combined Funds | Beginning Bank Balance  | -  | $7336.20
-06/14/2021  | LSCC General | Donation Amazon | $5.00  | $7341.20
-06/14/2021  | Dedicated Funds for Licton Springs Park | Check 1372 to David Gehman (wheelbarrow) | -$297.80 | $7043.40
-06/14/2021  | Dedicated Funds for Licton Springs Park | Check 1373 to Liz Kearns (tools) | -$263.35 | $6780.05
+Date | Line Item | Transaction Amount | Bank Balance  
+------------ | ------------- | ------------- | -------------
+04/21/2021  | Beginning Bank Balance  | $0.00  | $7,576.20
+04/24/2021  | Donation from Kevin Sheets  | $10.00  | $7,586.20
+05/15/2021  | Check 1371 to Liberty Mutual Insurance  | -$250.00  | $7,336.20
 
 Fund Type | Fund Amount
 ------------ | -------------
-Funds for Licton Springs Community Council | $4239.05
-Dedicated Funds for Licton Springs Park | $2541.00
-TOTAL Combined Funds | $6780.05
+Funds for Licton Springs Community Council | 4,229.05
+Dedicated Funds for Licton Springs Park | $3,107.15
+TOTAL Combined Funds | $7,336.20
+
 
 ###### NOTES:  
 
-Ending Balance reflects $10.00 held in PayPal Account
+I completed our annual Certification with Benevity on 04/20/2021.
 
-We received an email from Fred Meyer on 4/28/2020 of .44 donation, but this has not reached our
-Verity account and will not until it reaches $25.00.
+We received an email from Fred Meyer on 4/28/2020 of .44 donation, but this has not reached our Verity account and will not until it reaches $25.00.

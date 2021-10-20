@@ -1,33 +1,43 @@
-Title: Council Meeting Minutes Jan 2021
-Date: 2021-01-17 18:30
+Title: Council Meeting Minutes January 2021
+Date: 2020-01-17 18:30
 Category: Minutes
+
 
 **LICTON SPRINGS COMMUNITY COUNCIL**
 
-Approved Minutes Feb. 17 2021 6:30-8:30 P.M.
+Meeting Date/Time: Jan. 27, 2021 6:30-8:30 P.M.
+
+These meeting minutes were approved at the February 2021 meeting.
 
 Online meeting by Zoom due to Corona virus restrictions
 
-Directors present: Lindsey Webb, Melanie Davies, Liz Kearns, Bekah Gautrowski, Michael Cuadra, and Kathleen Braden
+Directors present: Janice Lichtenwaldt, Lindsey Webb, Ellen Beck, Melanie Davies, and Kathleen Braden
 
-Attendees: Dianne Trani, Matt Gautrowski, Janice Holkup, Noah An (from Dan Strauss office)
+Attendees: Dianne Trani, Mike Cuadra, Bekah and Matt Gautrowski, Osboldo Hernandez, Janice Holkup
 
-Melanie started the meeting at 6:35 and welcomed everyone.  
+Janice started the meeting at 6:35 and welcomed everyone.  
 
-Minutes of  Jan 27 2021were approved as circulated.  
+Minutes of Nov. 18, 2020 were approved as circulated.  Treasurer’s Report was approved and Ellen reported she filed our 990 form this month. 
 
-Noah An discussed fossil fuels policy decisions for new construction, Hope Team startup, COVID relief funding.
+1. Board members: M/S/A to elect Bekah Gautrowski to fill the vacancy of Jan Brucker’s seat and Mike Cuadra to fill the vacancy of Tim Crosley’s seat.  According to the by-laws, this action places them on the Board immediately and then they agreed to be nominated for two-year seats with the March, 2021 meeting.
 
-Bekah reported on her establishment of an ad-hoc committee for by-law revisions.
+    Kathleen updated regarding Board members and elections. The usual schedule has been interrupted due to the vagaries of the current COVID pandemic.  Here is the situation:
 
-Kathleen reported that Bob Blade of Blade Meats was happy to be invited as a business member and agreed.  She contacted Osbaldo Hernandez of DON but he has not responded.  She met with John Lombard of D5 group and will be meeting Feb 19 with him and others to look at pedestrian bridge construction progress.  She also reported on email from Lee Bruch on group “Fix Aurora” email attached and the Council agreed to indicate our support for this effort. Their next meeting is Feb 26 at 7 PM. 
+    Terms up in April: Janice Lichtenwaldt, Kathleen Braden, Ellen Beck, Lindsey Webb. All have agreed to stay on the Board and be nominated at the March meeting for a two-year term. Liz Kearns and Melanie Davies have been continuing even though their terms were up earlier and will be also nominated for a new term at the March meeting but their terms should go until 2022, not 2023, because we are late in confirming them and it is better not to have the whole Board’s terms end simultaneously.
 
-Melanie noted email from Jenny Frankl (attached) re cleanup. 
+    Ellen agreed to be nominated to continue as Treasurer; Kathleen is stepping down as Secretary and Lindsey agreed to be nominated for that position. Janice is completing her time as President (and everyone agreed she has done a wonderful job for us) and Melanie is interested in the nomination for that spot.  We will need a nomination for Vice-President and Mike Cuadra might be willing to serve.
 
-Mike reported on NPAC meeting where homelessness and trash cleanup was discussed and they heard from Kevin Mundt of Hope Team.
+2. Other Duties: Kathleen has stepped down as administrator for the Licton Springs Facebook Page.  Janice is still an administrator and will add Lindsey as one. Janice will also look into management of our website where minutes are posted and coordinate with Bekah & Matt who may be willing to help.
 
-Lindsey raised possibility of another music event in the neighborhood, perhaps over the summer and the idea was favorably received.
+3. Ad-hoc committee on by-laws revision: M/S/A to create an ad-hoc committee that Bekah will head up to consider revision to our by-laws and Lindsey will also help spearhead. She plans to start with input from the Council and then invite participation by people in the Licton Springs Community.
+
+4. Homelessness: Melanie led a discussion to update on issues of unhoused populations in the neighborhood. The group discussed City policy, presence of campers in the park and at Green Lake.  
+
+5. Parks: Liz Kearns sent in a note that work groups are being held in Mineral Springs and Licton Springs Parks, following proper protocols for pandemic safety.
+
+6. Business members: The Board agreed to ask Liz to congratulate Pilgrim Coffee which has moved into the Starbucks space at Oak Tree and invite as a business member of LSCC and to have Kathleen due likewise with Salt Blade Meats
 
 Minutes by Kathleen Braden, Secretary
 
-Next meeting   March 17
+Next meeting Feb 17 (Melanie will chair)
+

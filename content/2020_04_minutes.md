@@ -4,7 +4,9 @@ Category: Minutes
 
 **LICTON SPRINGS COMMUNITY COUNCIL**
 
-approved Minutes April 15, 2020 6:30-8:30 P.M.
+Meeting Date/Time: April 15, 2020 6:30-8:30 P.M.
+
+These minutes were approved at the May 2020 Meeting
 
 Online meeting by Zoom due to Corona virus restrictions
 
