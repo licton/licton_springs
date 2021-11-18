@@ -13,10 +13,10 @@ These meeting minutes were approved at the November 2021 meeting.
 - Directors Present: Melanie Davies, Mike Cuadra, Bekah Gautrowski, Bob Blade, Lindsey Webb, Kathleen Braden
 - General Members Present: Peter Reid, Mary Katka, Kevin Sheets, Kelly McGee, Brenda Butzon, Emma McStearns, Christine Hatcher, Robin Amadon, Anna Sim, Kay Mesirow, Pablo Lopez, Susan Ward, Jenn Mortola, Barbara Alfeo, Fernando Cervantes, Benson Limketkai, Jamie Waldock, Tom Boyden, Tom Meyer, Johnna Reitz, Jason Rood, Janice Holkup, Heidi Westling, Kyle Kinney, Ellen Beck, Paul Leonard, Xena Kinkade, Marci, Peter
 - Other Visitors Present: 
-- - Bellwether Housing: Susan Boyd (CEO), Richard Loo (Director of Real Estate Development), Mindy Black (Senior Housing Developer)
-- - Chief Seattle Club: Derrick Belgarde (Executive Director), Virgil Wade (Deputy Director), Mesha Florentino (Project Development Asset Manager), Anne Xuan (Development Consultant)
-- - North Seattle College: Lincoln Ferris, Terrence Hsiao, Gregory Hinton, Steve Leahy
-- - Architects: Jim Bodoia (VIA Architecture), Jenny Burdzinski (VIA Architecture), JohnPaul Jones (Jones & Jones Architects)
+  - Bellwether Housing: Susan Boyd (CEO), Richard Loo (Director of Real Estate Development), Mindy Black (Senior Housing Developer)
+  - Chief Seattle Club: Derrick Belgarde (Executive Director), Virgil Wade (Deputy Director), Mesha Florentino (Project Development Asset Manager), Anne Xuan (Development Consultant)
+  - North Seattle College: Lincoln Ferris, Terrence Hsiao, Gregory Hinton, Steve Leahy
+  - Architects: Jim Bodoia (VIA Architecture), Jenny Burdzinski (VIA Architecture), JohnPaul Jones (Jones & Jones Architects)
 
 ### Welcome & Introductions
 - Melanie started the meeting and welcomed everyone at 6:35. Attendees introduced themselves.
