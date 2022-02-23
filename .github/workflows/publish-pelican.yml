@@ -36,7 +36,13 @@ jobs:
         run: |
           pelican-themes -i attila
           
-      - name: Publish Pelican
-        uses: nelsonjchen/gh-pages-pelican-action@0.1.7
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - name: Run Pelican
+        id: run-pelican
+        run: |
+          pelican
+      
+      - name: Push to Github Pages
+        id: push-to-gh-pages
+        run: |
+          ghp-import output -b gh-pages
+          git push -f origin gh-pages
