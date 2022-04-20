@@ -37,7 +37,7 @@ STATIC_PATHS = ['static',
                 'extra/favicon.ico',
                 'extra/work_party.pdf',
                 'extra/historical_minutes.docx',
-                'extra/LSCC_Bylaws_2018-02-21.pdf',
+                'extra/LSCC_Bylaws_2022-02-16.pdf',
                 'extra/CNAME',
 ]
 EXTRA_PATH_METADATA = {
@@ -46,7 +46,7 @@ EXTRA_PATH_METADATA = {
     'extra/work_party.pdf': {'path': 'work_party.pdf'},
     'extra/CNAME': {'path': 'CNAME'},
     'extra/historical_minutes.docx': {'path': 'historical_minutes.docx'},
-    'extra/LSCC_Bylaws_2018-02-21.pdf': {'path': 'LSCC_Bylaws_2018-02-21.pdf'},
+    'extra/LSCC_Bylaws_2022-02-16.pdf': {'path': 'LSCC_Bylaws_2022-02-16.pdf'},
 }
 
 COLOR_SCHEME_CSS = 'monokai.css'
@@ -106,7 +106,7 @@ MENUITEMS = (
     ('History of Licton Springs', '/pages/history-of-licton-springs.html'),
     ('Old Website', 'https://licton.github.io/lictonsprings_org_legacy/index.html'),
     ('Historical Minutes', '/historical_minutes.docx'),
-    ('Council Bylaws', '/LSCC_Bylaws_2018-02-21.pdf'),
+    ('Council Bylaws', '/LSCC_Bylaws_2022-02-16.pdf'),
 )
 
 DEFAULT_PAGINATION = 5
