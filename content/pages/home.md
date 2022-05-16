@@ -54,10 +54,27 @@ We will get back to you as soon as possible, and if appropriate add your item to
 # Get Involved
 * Come to the community council meeting (held the third Wednesday of the month at 6:30pm, location TBA)
     * **NOTE:** There is no council meeting in August.
-* [Join the Friends of Licton Springs monthly work party](https://lovelicton.com/images/LictonSpringsPark2020.JPG)
+* Friends of Licton Springs Park monthly work party
+    * Depending on the time of year we will be weeding, planting, mulching, and doing other plant maintainence work.
+    * Every Month, on the Second Saturday of the Month
+    * 10am - 1pm
+    * Meet by the Playground on Ashworth Ave N
+    * Get more details and sign up online at <a id="work_party_external_link" href="#">Green Seattle</a>
 * [Find Volunteer Events on our Calendar](/pages/community-calendar.html)
 * <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypal">
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="5ES6SDXL2XPFN">
         <a href="#donate" onclick="document.getElementById('paypal').submit();">Donate</a>
     </form>
+
+
+<script>
+var d = new Date();
+
+var link = document.getElementById("work_party_external_link");
+var todayString = "" + d.getFullYear() + "-" + (d.getMonth()+1) + "-" + d.getDate();
+var oneYearString = "" + (d.getFullYear()+1) + "-" + (d.getMonth()+1) + "-" + d.getDate();
+
+link.setAttribute("href","https://seattle.greencitypartnerships.org/event/map/?&park=licton-springs-park&start=" + todayString + "&end=" + oneYearString);
+</script>
+
