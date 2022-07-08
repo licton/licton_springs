@@ -1,4 +1,4 @@
-Title: 2022 Election Candidate Questionaire
+Title: 2022 Election Candidate Questionnaire
 Date: 2022-07-08 10:00
 Category: News
 
