@@ -109,6 +109,15 @@ MENUITEMS = (
     ('Council Bylaws', '/LSCC_Bylaws_2022-02-16.pdf'),
 )
 
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.toc': {},
+    },
+    'output_format': 'html5',
+}
+
 DEFAULT_PAGINATION = 5
 DISQUS_SITENAME = 'lictonsprings'
 GOOGLE_ANALYTICS = 'UA-115518273-2'
