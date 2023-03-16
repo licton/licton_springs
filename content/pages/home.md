@@ -61,11 +61,7 @@ We will get back to you as soon as possible, and if appropriate add your item to
     * Meet by the Playground on Ashworth Ave N
     * Get more details and sign up online at <a id="work_party_external_link" href="#">Green Seattle</a>
 * [Find Volunteer Events on our Calendar](/pages/community-calendar.html)
-* <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypal">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="5ES6SDXL2XPFN">
-        <a href="#donate" onclick="document.getElementById('paypal').submit();">Donate</a>
-    </form>
+
 
 
 <script>
