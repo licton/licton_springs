@@ -1,6 +1,6 @@
 Title: Council Retreat Notes September 2019
 Date: 2019-09-19 00:00
-Category: Retreats
+Category: Minutes
 
 NOTES FROM SEPT 28, 2019 RETREAT LICTON SPRINGS COMMUNITY COUNCIL
 

@@ -1,6 +1,6 @@
 Title: Currents November 2016
 Date: 2016-11-01 00:00
-Category: Currents
+Category: Updates
 
 [![Page 1](/images/currents/currents_nov_2016-0.jpg)](/images/currents/currents_nov_2016-0.jpg)
 [![Page 2](/images/currents/currents_nov_2016-1.jpg)](/images/currents/currents_nov_2016-1.jpg)

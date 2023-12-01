@@ -1,6 +1,6 @@
 Title: 2022 Election Candidate Questionnaire
 Date: 2022-07-08 10:00
-Category: News
+Category: Updates
 
 
 Licton Springs Community Council is a non-political organization.  We reached out to candidates with a few locally-relevant questions to help
