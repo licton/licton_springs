@@ -4,7 +4,7 @@ import argparse
 
 def get_minutes_contents(year: int, month: int, day: int, docs_link: str) -> str:
     minutes = ""
-    minutes += f"Title: Council Meeting Minutes {calendar.month_name[month]} 2022\n"
+    minutes += f"Title: Council Meeting Minutes {calendar.month_name[month]} {year}\n"
     minutes += f"Date: {year}-{str(month).zfill(2)}-{str(day).zfill(2)} 18:30\n"
     minutes += "Category: Minutes\n"
     minutes += "\n"
