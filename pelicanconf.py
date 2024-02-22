@@ -67,9 +67,7 @@ AUTHORS_BIO = {
   }
 }
 SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
-                'right': 'Follow: <a href="https://twitter.com/LictonSprings" style="color: #1da1f3; font-weight: bold;">'
-                         'Twitter</a> '
-                         '<a href="https://www.facebook.com/LictonSpringsNeighborhood/" style="color: #4267b2; font-weight: bold;">'
+                'right': '<a href="https://www.facebook.com/LictonSpringsNeighborhood/" style="color: #4267b2; font-weight: bold;">'
                          'Facebook</a> '
                          '<a href="https://www.instagram.com/lictonsprings/" style="color: black; font-weight: bold;">'
                          'Instagram</a>'
@@ -81,7 +79,7 @@ SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
                          'Feed: <a href="/feeds/all.rss.xml" style="color: #ee802f; font-weight: '
                          'bold;">RSS</a> <a href="/feeds/all.atom.xml" style="color: #07b392; '
                          'font-weight: bold;">Atom</a><br /><br />'
-                         '<a href="https://www.paypal.com/donate/?token=NE1anuglqCz3JeajqvU-yxgiic3qyD912FQtG11H_ROYYde_Dw8dJwwzxZKa2TsbDVxygm&country.x=US&locale.x=US&Z3JncnB0=" style="color: green; font-weight: bold">Donate</a>'}
+                         '<form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden" name="hosted_button_id" value="FLA9856MJ4V7U" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form>'}
 
 SOCIAL = (('twitter', 'https://twitter.com/lictonlove'),
           ('facebook','https://facebook.com/lovelicton'),
