@@ -1,0 +1,28 @@
+.blog-logo {
+    max-width: 8em;
+    margin: 3em;
+    margin-top: 6em;
+}
+
+.cover-active .nav-button a, .nav-button a {
+    background-color: #2a80b9;
+    border: 2px white solid;
+    color: white;
+    font-size: .8em;
+}
+
+@media screen and (max-width: 980px) {
+    .blog-logo {
+        margin: 0 auto;
+        position: relative;
+        display: block;
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+    #blog-header.has-cover {
+        padding-top: 0px;
+    }
+    .post-title {
+        text-align: center;
+    }
+}
