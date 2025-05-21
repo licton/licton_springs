@@ -69,12 +69,10 @@ AUTHORS_BIO = {
 SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
                 'right': '<a href="https://www.facebook.com/LictonSpringsNeighborhood/" style="color: #4267b2; font-weight: bold;">'
                          'Facebook</a> '
-                         '<a href="https://www.instagram.com/lictonsprings/" style="color: black; font-weight: bold;">'
-                         'Instagram</a>'
                          '<br />'
                          '<div style="margin: .5em">'
-                         'Contact: <a href="mailto: lictonsprings@hotmail.com" style="color: #e04c40; font-weight: bold">'
-                         ' lictonsprings@hotmail.com</a></div>'
+                         'Contact: <a href="mailto: lictonspringscc@gmail.com" style="color: #e04c40; font-weight: bold">'
+                         ' lictonspringscc@gmail.com</a></div>'
                          '<br />'
                          'Feed: <a href="/feeds/all.rss.xml" style="color: #ee802f; font-weight: '
                          'bold;">RSS</a> <a href="/feeds/all.atom.xml" style="color: #07b392; '
@@ -83,7 +81,7 @@ SHOW_CREDITS = {'left': 'Made in Licton Springs, Seattle, WA',
 
 SOCIAL = (('twitter', 'https://twitter.com/lictonlove'),
           ('facebook','https://facebook.com/lovelicton'),
-          ('envelope','mailto:lovelicton@gmail.com'))
+          ('envelope','mailto:lictonspringscc@gmail.com'))
 
 
 # Blogroll
@@ -100,7 +98,6 @@ MENUITEMS = (
     ('Map of the Neighborhood', '/pages/neighborhood-map.html'),
     ('Community Calendar', '/pages/community-calendar.html'),
     ('Latest from the Council', '/latest.html'),
-    ('Neighborhood Blog', 'https://lovelicton.com'),
     ('History of Licton Springs', '/pages/history-of-licton-springs.html'),
     ('Old Website', 'https://licton.github.io/lictonsprings_org_legacy/index.html'),
     ('Historical Minutes', '/historical_minutes.docx'),
