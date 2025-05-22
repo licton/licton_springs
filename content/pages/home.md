@@ -30,7 +30,7 @@ To accomplish these goals we:
 # Bring a topic up for discussion
 
 Have an idea for how to improve the community? Want to work with us to set up an event?
-We'd love to know! Send an email to [lictonscpringscc@gmail.com](mailto: lictonspringscc@gmail.com)
+We'd love to know! Send an email to [lictonspringscc@gmail.com](mailto: lictonspringscc@gmail.com)
 
 
 # Stay Informed
